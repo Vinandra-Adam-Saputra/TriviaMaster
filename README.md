@@ -31,7 +31,7 @@ TriviaMaster is an interactive quiz game built using Python's Tkinter library. I
 
 1. Clone or download the repository containing the game files:
    ```bash
-   git clone https://github.com/yourusername/TriviaMaster.git
+   git clone https://github.com/Vinandra-Adam-Saputra/TriviaMaster.git
    ```
 2. Navigate to the project directory:
    ```bash
